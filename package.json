@@ -1,7 +1,7 @@
 {
   "name": "testing-with-workout-project-github",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing if pushing to main works",
   "main": "Workout.js",
   "type": "module",
   "scripts": {
